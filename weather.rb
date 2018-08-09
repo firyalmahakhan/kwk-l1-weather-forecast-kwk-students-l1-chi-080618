@@ -39,6 +39,6 @@ weather_hash
 # Hint - how can we find the algorithm to convert Farenheit to Celsius?
 
 def convert 
-  
+  convert.each do 
 
 
