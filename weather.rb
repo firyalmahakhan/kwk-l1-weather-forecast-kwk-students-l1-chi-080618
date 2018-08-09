@@ -39,6 +39,6 @@ weather_hash
 # Hint - how can we find the algorithm to convert Farenheit to Celsius?
 
 def convert 
-  convert (9/5 + 32)
+  puts "#{Celsius} => #{Farenheit} * (9/5 + 32)
 
 
